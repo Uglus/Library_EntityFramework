@@ -22,3 +22,27 @@ C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_E
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ReadersForm.resources
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.GenresForm.resources
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.JournalForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\Database1.mdf
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\Database1_log.ldf
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.exe.config
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.exe
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.pdb
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.dll
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.xml
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csprojAssemblyReference.cache
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.AuthorsForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.BookForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.Form1.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.GenresForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.JournalForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ManagersForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.Properties.Resources.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.PublishersForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ReadersForm.resources
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.GenerateResource.cache
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.CoreCompileInputs.cache
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.CopyComplete
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.exe
+C:\ШАГ\БД\ADO.NET\8dz\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.pdb
