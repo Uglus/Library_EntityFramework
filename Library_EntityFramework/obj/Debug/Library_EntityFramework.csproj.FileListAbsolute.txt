@@ -22,3 +22,26 @@ C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_E
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ReadersForm.resources
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.GenresForm.resources
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.JournalForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\Database1.mdf
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\Database1_log.ldf
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.exe.config
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.exe
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.pdb
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.dll
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.xml
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csprojAssemblyReference.cache
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.AuthorsForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.BookForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.Form1.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.GenresForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.JournalForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ManagersForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.Properties.Resources.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.PublishersForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ReadersForm.resources
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.GenerateResource.cache
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.CopyComplete
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.exe
+G:\GitHub\PortableGit\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.pdb
