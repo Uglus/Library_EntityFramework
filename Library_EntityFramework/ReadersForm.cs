@@ -74,7 +74,7 @@ namespace Library_EntityFramework
 
         private void ReadersForm_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void changeRaedersBtn_Click(object sender, EventArgs e)
@@ -91,6 +91,11 @@ namespace Library_EntityFramework
             }
             db.SaveChanges();
             LoadReaders();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

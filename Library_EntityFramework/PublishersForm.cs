@@ -72,5 +72,25 @@ namespace Library_EntityFramework
             db.SaveChanges();
             LoadPublishers();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PublishersForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void changePublisherBtn_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
