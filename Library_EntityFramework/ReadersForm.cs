@@ -71,5 +71,26 @@ namespace Library_EntityFramework
             db.Readers.Remove(readrerToDelete);
             LoadReaders();
         }
+
+        private void ReadersForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void changeRaedersBtn_Click(object sender, EventArgs e)
+        {
+            string changeName = readersList.SelectedItems[0].SubItems[1].Text;
+            string changeContact = readersList.SelectedItems[0].SubItems[2].Text;
+            foreach (Readers r in db.Readers)
+            {
+                if (r.Name == changeName && r.Contact == changeContact)
+                {
+                    r.Name = nameBox.Text;
+                    r.Contact = contactBox.Text;
+                }
+            }
+            db.SaveChanges();
+            LoadReaders();
+        }
     }
 }

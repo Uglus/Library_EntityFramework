@@ -58,5 +58,19 @@ namespace Library_EntityFramework
 
             db.Publishers.Remove(publishersToDelete);
         }
+
+        private void changePublisherBtn_Click(object sender, EventArgs e)
+        {
+            string changeName = publishersList.SelectedItems[0].SubItems[1].Text;
+            foreach (Publishers p in db.Publishers)
+            {
+                if (p.Name == changeName)
+                {
+                    p.Name = nameBox.Text;
+                }
+            }
+            db.SaveChanges();
+            LoadPublishers();
+        }
     }
 }

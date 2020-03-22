@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_EntityFramework", "Library_EntityFramework\Library_EntityFramework.csproj", "{EE63777D-B2D2-4CA7-B2D9-F7937BF2C4D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r", "Library_EntityFramework\r.csproj", "{EE63777D-B2D2-4CA7-B2D9-F7937BF2C4D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -41,15 +41,16 @@
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.contactBox = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // deleteReaderBtn
             // 
-            this.deleteReaderBtn.Location = new System.Drawing.Point(327, 422);
-            this.deleteReaderBtn.Margin = new System.Windows.Forms.Padding(2);
+            this.deleteReaderBtn.Location = new System.Drawing.Point(222, 812);
+            this.deleteReaderBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.deleteReaderBtn.Name = "deleteReaderBtn";
-            this.deleteReaderBtn.Size = new System.Drawing.Size(96, 23);
+            this.deleteReaderBtn.Size = new System.Drawing.Size(192, 44);
             this.deleteReaderBtn.TabIndex = 23;
             this.deleteReaderBtn.Text = "Удалить";
             this.deleteReaderBtn.UseVisualStyleBackColor = true;
@@ -57,10 +58,10 @@
             // 
             // saveReaderBtn
             // 
-            this.saveReaderBtn.Location = new System.Drawing.Point(163, 422);
-            this.saveReaderBtn.Margin = new System.Windows.Forms.Padding(2);
+            this.saveReaderBtn.Location = new System.Drawing.Point(436, 812);
+            this.saveReaderBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.saveReaderBtn.Name = "saveReaderBtn";
-            this.saveReaderBtn.Size = new System.Drawing.Size(96, 23);
+            this.saveReaderBtn.Size = new System.Drawing.Size(192, 44);
             this.saveReaderBtn.TabIndex = 22;
             this.saveReaderBtn.Text = "Сохранить";
             this.saveReaderBtn.UseVisualStyleBackColor = true;
@@ -68,10 +69,10 @@
             // 
             // addReaderBtn
             // 
-            this.addReaderBtn.Location = new System.Drawing.Point(11, 422);
-            this.addReaderBtn.Margin = new System.Windows.Forms.Padding(2);
+            this.addReaderBtn.Location = new System.Drawing.Point(22, 812);
+            this.addReaderBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.addReaderBtn.Name = "addReaderBtn";
-            this.addReaderBtn.Size = new System.Drawing.Size(96, 23);
+            this.addReaderBtn.Size = new System.Drawing.Size(192, 44);
             this.addReaderBtn.TabIndex = 21;
             this.addReaderBtn.Text = "Добавить";
             this.addReaderBtn.UseVisualStyleBackColor = true;
@@ -80,28 +81,28 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(22, 387);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(44, 744);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(59, 13);
+            this.label2.Size = new System.Drawing.Size(114, 25);
             this.label2.TabIndex = 19;
             this.label2.Text = "Контакты:";
             // 
             // nameBox
             // 
-            this.nameBox.Location = new System.Drawing.Point(81, 352);
-            this.nameBox.Margin = new System.Windows.Forms.Padding(2);
+            this.nameBox.Location = new System.Drawing.Point(162, 677);
+            this.nameBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.nameBox.Name = "nameBox";
-            this.nameBox.Size = new System.Drawing.Size(302, 20);
+            this.nameBox.Size = new System.Drawing.Size(600, 31);
             this.nameBox.TabIndex = 18;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 354);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(60, 681);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(40, 13);
+            this.label1.Size = new System.Drawing.Size(73, 25);
             this.label1.TabIndex = 17;
             this.label1.Text = "Ф.И.О";
             // 
@@ -112,10 +113,10 @@
             this.columnHeader2,
             this.columnHeader1});
             this.readersList.HideSelection = false;
-            this.readersList.Location = new System.Drawing.Point(11, 11);
-            this.readersList.Margin = new System.Windows.Forms.Padding(2);
+            this.readersList.Location = new System.Drawing.Point(22, 21);
+            this.readersList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.readersList.Name = "readersList";
-            this.readersList.Size = new System.Drawing.Size(412, 155);
+            this.readersList.Size = new System.Drawing.Size(820, 294);
             this.readersList.TabIndex = 16;
             this.readersList.UseCompatibleStateImageBehavior = false;
             this.readersList.View = System.Windows.Forms.View.Details;
@@ -136,28 +137,40 @@
             // 
             // contactBox
             // 
-            this.contactBox.Location = new System.Drawing.Point(81, 384);
-            this.contactBox.Margin = new System.Windows.Forms.Padding(2);
+            this.contactBox.Location = new System.Drawing.Point(162, 738);
+            this.contactBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.contactBox.Multiline = true;
             this.contactBox.Name = "contactBox";
-            this.contactBox.Size = new System.Drawing.Size(302, 20);
+            this.contactBox.Size = new System.Drawing.Size(600, 35);
             this.contactBox.TabIndex = 24;
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(81, 171);
+            this.pictureBox1.Location = new System.Drawing.Point(162, 329);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(302, 162);
+            this.pictureBox1.Size = new System.Drawing.Size(604, 312);
             this.pictureBox1.TabIndex = 25;
             this.pictureBox1.TabStop = false;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(663, 812);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(192, 44);
+            this.button1.TabIndex = 26;
+            this.button1.Text = "Изменить";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // ReadersForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(434, 461);
+            this.ClientSize = new System.Drawing.Size(874, 890);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.contactBox);
             this.Controls.Add(this.deleteReaderBtn);
@@ -167,8 +180,10 @@
             this.Controls.Add(this.nameBox);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.readersList);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "ReadersForm";
             this.Text = "ReadersForm";
+            this.Load += new System.EventHandler(this.ReadersForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -189,5 +204,6 @@
         private System.Windows.Forms.ColumnHeader columnHeader1;
         private System.Windows.Forms.TextBox contactBox;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button1;
     }
 }

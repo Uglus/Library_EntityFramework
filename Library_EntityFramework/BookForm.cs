@@ -41,13 +41,13 @@ namespace Library_EntityFramework
 
             foreach(Publishers p in db.Publishers)
             {
-                publisherCombo.Items.Add(p);
+                publisherCombo.Items.Add(p.Name);
                 publisherCombo.DisplayMember = p.Name;
             }
 
             foreach(Genres g in db.Genres)
             {
-                genreCombo.Items.Add(g);
+                genreCombo.Items.Add(g.Name);
                 genreCombo.DisplayMember = g.Name;
             }
         }
@@ -87,10 +87,29 @@ namespace Library_EntityFramework
             };
 
             db.Books.Add(book);
+            db.SaveChanges();
+            LoadBooks();
         }
 
         private void saveBtn_Click(object sender, EventArgs e)
         {
+            string bookName = booksList.SelectedItems[0].SubItems[1].Text;
+            int genreId = db.Genres.FirstOrDefault(g => g.Name == genreCombo.Text).Id;
+            int publisherId = db.Publishers.FirstOrDefault(p => p.Name == publisherCombo.Text).Id;
+
+            foreach (var b in db.Books)
+            {
+                if(b.Name == bookName)
+                {
+                    b.Name = nameBox.Text;
+                    b.GenreId = genreId;
+                    b.PublisherId = publisherId;
+                    b.Year = (int)yearNum.Value;
+                    b.Pages = (int)pagesNum.Value;
+                    b.Price = priceNum.Value;
+                }
+            }
+
             db.SaveChanges();
             LoadBooks();
         }

@@ -49,8 +49,8 @@ namespace Library_EntityFramework
 
         private void authorsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AuthorsForm af = new AuthorsForm();
-            af.Show();
+          AuthorsForm af = new AuthorsForm();
+           af.Show();
         }
 
         private void journalToolStripMenuItem_Click(object sender, EventArgs e)
