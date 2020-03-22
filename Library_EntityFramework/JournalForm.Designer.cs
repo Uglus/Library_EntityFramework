@@ -48,6 +48,8 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.dellBtn = new System.Windows.Forms.Button();
             this.addBtn = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // journalList
@@ -100,9 +102,9 @@
             // 
             // saveBtn
             // 
-            this.saveBtn.Location = new System.Drawing.Point(682, 316);
+            this.saveBtn.Location = new System.Drawing.Point(491, 353);
             this.saveBtn.Name = "saveBtn";
-            this.saveBtn.Size = new System.Drawing.Size(90, 36);
+            this.saveBtn.Size = new System.Drawing.Size(69, 25);
             this.saveBtn.TabIndex = 1;
             this.saveBtn.Text = "Сохранить";
             this.saveBtn.UseVisualStyleBackColor = true;
@@ -159,7 +161,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(252, 308);
+            this.label5.Location = new System.Drawing.Point(223, 304);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(64, 13);
             this.label5.TabIndex = 29;
@@ -167,7 +169,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(333, 305);
+            this.textBox2.Location = new System.Drawing.Point(304, 301);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(166, 20);
             this.textBox2.TabIndex = 28;
@@ -175,7 +177,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(252, 348);
+            this.label4.Location = new System.Drawing.Point(223, 344);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(71, 13);
             this.label4.TabIndex = 31;
@@ -183,16 +185,16 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(333, 345);
+            this.textBox1.Location = new System.Drawing.Point(304, 341);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(166, 20);
             this.textBox1.TabIndex = 30;
             // 
             // dellBtn
             // 
-            this.dellBtn.Location = new System.Drawing.Point(541, 342);
+            this.dellBtn.Location = new System.Drawing.Point(491, 323);
             this.dellBtn.Name = "dellBtn";
-            this.dellBtn.Size = new System.Drawing.Size(90, 36);
+            this.dellBtn.Size = new System.Drawing.Size(69, 22);
             this.dellBtn.TabIndex = 32;
             this.dellBtn.Text = "Удалить";
             this.dellBtn.UseVisualStyleBackColor = true;
@@ -200,13 +202,23 @@
             // 
             // addBtn
             // 
-            this.addBtn.Location = new System.Drawing.Point(541, 285);
+            this.addBtn.Location = new System.Drawing.Point(491, 289);
             this.addBtn.Name = "addBtn";
-            this.addBtn.Size = new System.Drawing.Size(90, 36);
+            this.addBtn.Size = new System.Drawing.Size(69, 24);
             this.addBtn.TabIndex = 33;
             this.addBtn.Text = "Добавить";
             this.addBtn.UseVisualStyleBackColor = true;
             this.addBtn.Click += new System.EventHandler(this.addBtn_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Library_EntityFramework.Properties.Resources.Команда__2_;
+            this.pictureBox1.Location = new System.Drawing.Point(602, 253);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(195, 164);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 34;
+            this.pictureBox1.TabStop = false;
             // 
             // JournalForm
             // 
@@ -227,9 +239,11 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.saveBtn);
             this.Controls.Add(this.journalList);
+            this.Controls.Add(this.pictureBox1);
             this.Name = "JournalForm";
             this.Text = "JournalForm";
             this.Load += new System.EventHandler(this.JournalForm_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -257,5 +271,6 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button dellBtn;
         private System.Windows.Forms.Button addBtn;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

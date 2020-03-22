@@ -16,7 +16,7 @@ namespace Library_EntityFramework
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new JournalForm());
+            Application.Run(new Form1());
         }
     }
 }
