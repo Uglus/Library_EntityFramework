@@ -66,6 +66,17 @@ namespace Library_EntityFramework
 
         private void saveBtn_Click(object sender, EventArgs e)
         {
+            string managerName = managersList.SelectedItems[0].SubItems[1].Text;
+
+            foreach (var m in db.Managers)
+            {
+                if (m.Name == managerName)
+                {
+                    m.Name = nameBox.Text;
+                    m.Contact = contactsBox.Text;
+                }
+            }
+
             db.SaveChanges();
             LoadManagers();
         }
