@@ -22,3 +22,27 @@ C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_E
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ReadersForm.resources
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.GenresForm.resources
 C:\Users\Uglus\OneDrive\Документи\Visual Studio 2017\Projects\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.JournalForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\Database1.mdf
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\Database1_log.ldf
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.exe.config
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.exe
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\Library_EntityFramework.pdb
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csprojAssemblyReference.cache
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.AuthorsForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.BookForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.Form1.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.GenresForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.JournalForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ManagersForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.Properties.Resources.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.PublishersForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.ReadersForm.resources
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.GenerateResource.cache
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.csproj.CopyComplete
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.exe
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.pdb
+C:\Users\Chester\Desktop\gits\Library_EntityFramework\Library_EntityFramework\obj\Debug\Library_EntityFramework.NewJournal.resources
